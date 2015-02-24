@@ -1,0 +1,29 @@
+{
+  "name": "anagrams",
+  "version": "0.1.0",
+  "description": "find anagrams and similar sounding words",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Planeshifter/anagrams.git"
+  },
+  "author": "Philipp Burckhardt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Planeshifter/anagrams/issues"
+  },
+  "homepage": "https://github.com/Planeshifter/anagrams",
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "double-metaphone": "^0.1.4"
+  }
+}
