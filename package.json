@@ -25,6 +25,7 @@
     "mocha": "^2.1.0"
   },
   "dependencies": {
-    "double-metaphone": "^0.1.4"
+    "double-metaphone": "^0.1.4",
+    "lodash": "^3.3.1"
   }
 }
